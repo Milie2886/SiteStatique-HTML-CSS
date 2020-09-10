@@ -83,10 +83,9 @@ nav{
 }
 #apropos_image{
     flex: 1;
-    padding: 10px;
-    justify-content: center;
-    position: relative;
-    left: 150px;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 #apropos_texte{
     font-family: "Letters for Learners", sans-serif;
